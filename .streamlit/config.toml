@@ -1,0 +1,7 @@
+# Settings for the app.
+[server]
+headless = true          # don't ask questions in the terminal when starting
+address = "localhost"    # only this laptop can open the app (not other devices)
+
+[browser]
+gatherUsageStats = false # don't send usage data to Streamlit

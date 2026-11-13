@@ -1,0 +1,21 @@
+# --- Secret: never upload ---
+claude_key.txt
+
+# --- Personal data: your essays' pieces, chat sessions, worldview ---
+store/
+worldview.md
+worldview_old.md
+worldview_info.json
+writing_rules.md
+history/
+history_moved_backup/
+
+# --- Personal files and old copies ---
+medium_article*
+~$*
+app_before_*.py
+
+# --- Made by Python, not needed ---
+.venv/
+__pycache__/
+*.pyc
